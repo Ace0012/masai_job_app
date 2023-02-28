@@ -1,4 +1,4 @@
-[
+{"jobs":[
 	{
 		"company": "Ellette",
 		"postedAt": "2021-03-30",
@@ -21,4 +21,4 @@
 		"position": "Junior Frontend Developer",
 		"language": "Java"
 	}
-]
+]}
