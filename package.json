@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "json-server": "^0.17.2"
-  }
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "masai-job",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ace0012/masai_job_app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ace0012/masai_job_app/issues"
+  },
+  "homepage": "https://github.com/Ace0012/masai_job_app#readme",
+  "description": ""
 }
